@@ -1,0 +1,37 @@
+dependencies: \
+  /Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/ios/Classes/FlutterWebviewPlugin.m \
+  /Users/mu/Documents/bot_toast_on_webview/ios/build/Pods.build/Debug-iphonesimulator/flutter_webview_plugin.build/module.modulemap \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Pods/Target\ Support\ Files/flutter_webview_plugin/flutter_webview_plugin-prefix.pch \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/kcdata.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/uuid.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/netinet6.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/device.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/mach_debug.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/mach_machine.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/mach.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/bank.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/darwin_posix_sys_types.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/netinet.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/net.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/darwin_cdefs.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/mach-o/compact_unwind_encoding.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator15.0.sdk/usr/include/mach-o/dyld.modulemap \
+  /Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/ios/Classes/FlutterWebviewPlugin.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/mu/Documents/bot_toast_on_webview/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Applications/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_webview_plugin-0.3.11/ios/Classes/WebviewJavaScriptChannelHandler.h
